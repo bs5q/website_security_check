@@ -10,6 +10,8 @@ Welcome to the Website Security Check repository! This tool is designed to perfo
    ```bash
    git clone https://github.com/bs5q/website_security_check.git
    cd website_security_check
+   npm i
+   node choosewhichone.js
 
 Tools Included
 
@@ -17,7 +19,7 @@ Tools Included
     SQL Injection Checker: Detects potential SQL injection vulnerabilities.
     XSS Injection Checker: Identifies potential Cross-Site Scripting vulnerabilities.
     Additional Tools: Includes extra tools for a comprehensive security scan.
-
+```
 Additional Tools
 
 Feel free to customize and expand the tool with more security as needed.
@@ -29,3 +31,4 @@ License
 This project is licensed under the MIT License.
 
 Happy scanning! 🚀
+```
