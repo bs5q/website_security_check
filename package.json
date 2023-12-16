@@ -1,0 +1,15 @@
+{
+  "name": "security-headers-checker",
+  "version": "1.0.0",
+  "description": "A tool to check security of a website",
+  "main": "src/securityHeadersChecker.js",
+  "scripts": {
+    "start": "node securityHeadersChecker.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
